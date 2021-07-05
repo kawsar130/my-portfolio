@@ -73,13 +73,17 @@ section h1 {
 
 #full-stack {
     border-left: 7px solid;
+    background: linear-gradient(#eee, #ddd) padding-box, linear-gradient(to right, #9c20aa, #fb3570) border-box;
+    color: #313149;
     border-image: linear-gradient(dodgerblue, salmon);
     border-image-slice: 1;
 }
 
 #baby-stack {
     border-left: 7px solid;
+    background: linear-gradient(#eee, #ddd) padding-box, linear-gradient(to right, #9c20aa, #fb3570) border-box;
     border-image: linear-gradient(royalblue ,lightblue);
+    color: #313149;
     border-image-slice: 1;
 }
 
